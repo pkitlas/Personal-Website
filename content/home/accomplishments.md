@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-01-01"
   date_end = "2018-12-31"
-  description = "Archival research in Morocco and Turkey"
+  description = "Archival research in Morocco (Mudiriyya al-Watha'iq al-Malikiyya, Hassan II Library, Dawud Library) and Turkey (Başbakanlık, Süleymaniye)"
   
   [[item]]
     organization = "International Dissertation Research Fellowship"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
     certificate_url = ""
     date_start = "2017-10-01"
     date_end = "2018-09-30"
-    description = "Archival research in Morocco and Turkey"
+    description = "Archival research in Morocco (Mudiriyya al-Watha'iq al-Malikiyya, Hassan II Library, Dawud Library) and Turkey (Başbakanlık, Süleymaniye)"
   
 
 +++
