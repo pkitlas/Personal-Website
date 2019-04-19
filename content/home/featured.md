@@ -62,5 +62,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-A list of my most recent and upcoming publications
+A list of my most recent publications
 
