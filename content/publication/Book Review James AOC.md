@@ -7,11 +7,8 @@ view = 3
 title = "Book Review for James A.O.C. Brown's, Crossing the Strait"
 subtitle = "Morocco, Gibraltar and Great Britain in the 18th and 19th centuries"
 date = 2017-07-08
-<<<<<<< HEAD
-summary = "James A.O.C. Brown magnificently incestigates the connections across the Straits of Gibraltar in the 18th and 19th centuries"
-=======
 summary = "James A.O.C. Brown magnificently investigates Moroccan-British diplomatic and commercial connections across the Straits of Gibraltar in the 18th and 19th centuries"
->>>>>>> e1fc74c248ae45933013283d7286c8b6832bba74
+
 tags = ["Mediterranean"]
 categories = ["Book Review"]
 publication_type = "0"
