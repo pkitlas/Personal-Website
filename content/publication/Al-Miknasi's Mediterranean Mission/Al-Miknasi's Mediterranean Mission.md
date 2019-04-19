@@ -15,7 +15,7 @@ abstract = "In 1779 the Sultan of Morocco, Muḥammad bin ‘Abdallah (Muḥamma
 
 url_pdf = "https://www.academia.edu/24116066/Al-Mikn%C4%81s%C4%ABs_Mediterranean_Mission_Negotiating_Moroccan_Temporal_and_Spiritual_Sovereignty_in_the_Late_Eighteenth_Century"
 
-["image"]
+[featured]
 
 focal_point = "Center"
 preview_only = false
