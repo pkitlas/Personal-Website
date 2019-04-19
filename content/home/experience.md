@@ -18,14 +18,14 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "High School Teacher"
+  title = "High School Teacher for Islam in America"
+  title_url = "files/IslaminAmericaSyllabus.pdf"
   company = "The Lawrenceville School"
   company_url = "https://www.lawrenceville.org/Religion-and-Philosophy?LevelNum=1456&DepartmentId=25212"
   location = "Lawrenceville, NJ"
   date_start = "2019-03-25"
   date_end = ""
   description = """Taught self-designed course on Islam in America using the Harkness Teaching Model
-  {{% staticref "files/IslaminAmericaSyllabus.pdf" "newtab" %}}Download a copy of the Syllabus Here{{% /staticref %}}"""
 
 [[experience]]
   title = "Graduate Student Instructor"
