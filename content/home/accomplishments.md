@@ -28,5 +28,15 @@ date_format = "Jan 2006"
   date_end = "2018-12-31"
   description = "Archival research in Morocco and Turkey"
   
+  [[item]]
+    organization = "International Dissertation Research Fellowship"
+    organization_url = ""
+    title = "Social Science Research Council"
+    url = ""
+    certificate_url = ""
+    date_start = "2017-10-01"
+    date_end = "2018-09-30"
+    description = "Archival research in Morocco and Turkey"
+  
 
 +++
