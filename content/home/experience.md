@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Lawrenceville, NJ"
   date_start = "2019-03-25"
   date_end = ""
-  description = """Taught self-designed course on Islam in America using the Harkness Teaching Model
+  description = """Taught self-designed course on Islam in America using the Harkness Teaching Model"""
 
 [[experience]]
   title = "Graduate Student Instructor"
