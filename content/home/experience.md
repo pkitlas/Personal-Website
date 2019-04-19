@@ -36,4 +36,4 @@ date_format = "Jan 2006"
   description = """Facilitated two 25 student discussion sessions and writing tutorials for Intro to Arab Culture."""
 
 +++
-{{% staticref "files/teachingstatement.pdf" "newtab" %}}Download my Teaching Statement{{% /staticref %}}
+#{{% staticref "files/teachingstatement.pdf" "newtab" %}}Download my Teaching Statement Here{{% /staticref %}}
