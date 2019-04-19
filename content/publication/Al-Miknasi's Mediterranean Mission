@@ -1,6 +1,6 @@
 +++
 
-widget = "featured"
+widget = "publication"
 featured = true
 headless = true
 view = 3
