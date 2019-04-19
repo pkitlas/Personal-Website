@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-03-25"
   date_end = ""
   description = """Taught self-designed course on Islam in America using the Harkness Teaching Model
-  {{% staticref "files/IslaminAmericaSyllabus.pdf" "newtab" %}} Download a copy of the Syllabus Here{{% /staticref %}}"""
+  {{% staticref "files/IslaminAmericaSyllabus.pdf" "newtab" %}}Download a copy of the Syllabus Here{{% /staticref %}}"""
 
 [[experience]]
   title = "Graduate Student Instructor"
