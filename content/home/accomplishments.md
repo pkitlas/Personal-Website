@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Fulbright-Hays"
+  organization = "Doctoral Dissertation Research Abroad Fellowship"
   organization_url = ""
-  title = "Doctoral Dissertation Research Abroad Award"
+  title = "Fulbright-Hays"
   url = ""
   certificate_url = ""
   date_start = "2018-01-01"
