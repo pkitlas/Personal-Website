@@ -17,7 +17,7 @@ url_pdf = "https://www.academia.edu/24116066/Al-Mikn%C4%81s%C4%ABs_Mediterranean
 
 [header]
 image = "Sevilla.jpg"
-focal_point = "Center"
+focal_point = "TopRight"
 caption = "The mosque tower turned cathedral bell tower visited and commented on by al-Miknasi during his trip to Spain"
 
 +++
