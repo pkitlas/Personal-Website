@@ -27,8 +27,8 @@ date_format = "Jan 2006"
   description = """Taught self-designed course on Islam in America using the Harkness Teaching Model"""
 
 [[experience]]
-  title = "Graduate Student Instructor, Intro to Arab Culture"
-  company = "University of Michigan"
+  title = "University of Michigan, Graduate Student Instructor"
+  company = "Intro to Arab Culture"
   company_url = ""
   location = "Ann Arbor, MI"
   date_start = "2014-01-01"
