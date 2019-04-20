@@ -2,7 +2,7 @@
 title = "Al-Miknasi's Mediterranean Mission"
 subtitle = "Negotiating Moroccan Temporal and Spiritual Sovereignty in the Late Eighteenth Century"
 date = 2015-11-02
-summary = ""
+summary = "An examination of the wider geopolitical worldviews of Moroccan diplomats in the late eighteenth century"
 tags = ["Mediterranean"]
 categories = ["Paper"]
 publication_type = "2"
