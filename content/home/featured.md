@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 4  # Order that this section will appear.
 
-title = "Featured Publications"
+title = "Featured Publications and Talks"
 subtitle = ""
 
 [content]
@@ -62,5 +62,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-A list of my most recent publications
+
 
