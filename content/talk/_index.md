@@ -1,14 +1,14 @@
 +++
-# title = "{{ replace .Name "-" " " | title }}"
+title = ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = {{ .Date }}
-date_end = {{ .Date }}
+date = ""
+date_end = ""
 all_day = false
 
 # Schedule page publish date (NOT talk date).
-publishDate = {{ .Date }}
+publishDate = ""
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
