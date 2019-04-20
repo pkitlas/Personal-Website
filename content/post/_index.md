@@ -4,7 +4,7 @@
 # Add a summary to display on homepage (optional).
 summary = ""
 
-date = {{ .Date }}
+date = ""
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
