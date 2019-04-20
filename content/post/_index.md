@@ -1,6 +1,5 @@
 +++
-title = "{{ replace .Name "-" " " | title }}"
-subtitle = ""
+# start with title and date
 
 # Add a summary to display on homepage (optional).
 summary = ""
