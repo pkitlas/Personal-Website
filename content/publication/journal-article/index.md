@@ -3,7 +3,8 @@ title = "Al-Miknasi's Mediterranean Mission"
 date = 2015-12-14T00:00:00
 
 subtitle = "Negotiating Moroccan Temporal and Spiritual Sovereignty in the Late Eighteenth Century"
-summary = "An examination of the complex geopolitical and Mediterranean worldviews taken from the close reading of Ibn ʿUthmān al-Miknāsī's diplomatic mission to Spain in the late eighteenth century"
+summary = """14 December 2015
+An examination of the complex geopolitical and Mediterranean worldviews taken from the close reading of Ibn ʿUthmān al-Miknāsī's diplomatic mission to Spain in the late eighteenth century""""
 tags = ["Mediterranean"]
 categories = ["Paper"]
 publication_type = "2"
