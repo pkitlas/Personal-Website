@@ -1,4 +1,6 @@
 +++
+[image]
+
 widget = "featured"
 featured = true
 headless = true
