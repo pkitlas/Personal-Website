@@ -1,10 +1,11 @@
 +++
-[image]
 
 widget = "featured"
 featured = true
 headless = true
 view = 3
+
+[image]
 
 title = "Al-Miknasi's Mediterranean Mission"
 subtitle = "Negotiating Moroccan Temporal and Spiritual Sovereignty in the Late Eighteenth Century"
