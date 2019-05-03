@@ -1,7 +1,7 @@
 +++
 
 title = "Book Review for James A.O.C. Brown's, Crossing the strait"
-date: 2017-07-08T00:00:00
+date = 2017-07-08T00:00:00
 
 subtitle = "Morocco, Gibraltar, and Great Britain in the 18th and 19th Centuries"
 
