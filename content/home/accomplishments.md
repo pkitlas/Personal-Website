@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   date_end = "2018-12-31"
   description = "Archival research in Morocco (Mudiriyya al-Watha'iq al-Malikiyya, Hassan II Library, Dawud Library) and Turkey (Başbakanlık, Süleymaniye)"
   
-  [[item]]
+[[item]]
     organization = "International Dissertation Research Fellowship"
     organization_url = ""
     title = "Social Science Research Council"
@@ -38,5 +38,11 @@ date_format = "Jan 2006"
     date_end = "2018-09-30"
     description = "Archival research in Morocco (Mudiriyya al-Watha'iq al-Malikiyya, Hassan II Library, Dawud Library) and Turkey (Başbakanlık, Süleymaniye)"
   
-
+[[item]]
+  organization = "Graduate Student Fellow"
+  organization_url = "https://cdh.princeton.edu/"
+  title = "Princeton Center for Digital Humanities"
+  date_start = "2019-02-01"
+  date_end = "2019-06-01"
+  description = "Collaborative fellowship with graduate students from across the disciplines that promotes the development of DH skills and methodologies for our own dissertation and personal research projects"
 +++
