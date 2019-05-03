@@ -5,7 +5,7 @@ date = 2017-07-08T00:00:00
 
 subtitle = "Morocco, Gibraltar, and Great Britain in the 18th and 19th Centuries"
 
-tags = ["Morocco"], ["Mediterranean"]
+tags = ["Morocco", "Mediterranean"]
 categories = ["Book Review"]
 publication_type = "0"
 abstract = "James A.O.C. Brown's study of economic and diplomatic relations between British Gibraltar and Alawite Morocco offers more than simply a political history. Rather, Brown aptly employs a socio-historical methodology, allowing him to explore the dynamic mechanisms and developments of these relations."
