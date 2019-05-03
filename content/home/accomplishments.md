@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "Graduate Student Fellow"
-  organization_url = "https://cdh.princeton.edu/"
+  url = "https://cdh.princeton.edu/"
   title = "Princeton Center for Digital Humanities"
   date_start = "2019-02-01"
   date_end = "2019-06-01"
