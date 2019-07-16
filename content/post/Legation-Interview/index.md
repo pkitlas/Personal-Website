@@ -1,15 +1,15 @@
 +++
-title = "Academic: the website builder for Hugo"
-subtitle = "Create a beautifully simple website in under 10 minutes :rocket:"
+title = "Interview at the American Legation, Tangier Morocco"
+subtitle = "Moroccan and Ottoman Contributions to 18th c. Diplomatic Developments"
 
-date = 2016-04-20T00:00:00  # Schedule a publish date
-lastmod = 2019-04-17T00:00:00  # Date last modified
+date = 2019-01-10T00:00:00  # Schedule a publish date
+lastmod = 2019-07-16T00:00:00  # Date last modified
 draft = false  # Display this post? (true/false)
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin"]
+authors = ["Peter Kitlas"]
 
-tags = ["Academic"]
+tags = ["Morocc", "Mediterranean", "Diplomacy"]
 summary = "Create a beautifully simple website in under 10 minutes."
 
 # Projects (optional).
