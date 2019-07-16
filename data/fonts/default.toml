@@ -2,10 +2,10 @@
 name = "Default"
 
 # Optional Google font URL
-google_fonts = "Arapey:400,400i|Karla:400,700|Roboto+Mono"
+google_fonts = "DM Serif Text:400,400i|Karla:400,700|Roboto+Mono"
 
 # Font families
-heading_font = "Arapey"
+heading_font = "DM Serif Text"
 body_font = "Karla"
 nav_font = "Karla"
 mono_font = "Roboto Mono"
