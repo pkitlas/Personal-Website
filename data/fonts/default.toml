@@ -2,12 +2,12 @@
 name = "Default"
 
 # Optional Google font URL
-google_fonts = "Source Serif Pro:400,400i|Source Serif Pro:400,600|Roboto+Mono"
+google_fonts = "Yrsa:400,400i|Open Sans:400,600|Roboto+Mono"
 
 # Font families
-heading_font = "Source Serif Pro"
-body_font = "Source Serif Pro"
-nav_font = "Source Serif Pro"
+heading_font = "Yrsa"
+body_font = "Open Sans"
+nav_font = "Open Sans"
 mono_font = "Roboto Mono"
 
 # Font size
