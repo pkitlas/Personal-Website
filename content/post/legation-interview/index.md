@@ -1,5 +1,4 @@
 +++
-
 title = "Interview at the American Legation"
 
 summary = "This podcast, featuring doctoral candidate in the Department of Near Eastern Studies at Princeton University Peter Kitlas,  and TALIM resident director John Davison, was recorded on January 10, 2019."
@@ -32,15 +31,16 @@ categories = ["Podcast"]
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
+**Summary**
 
-## Summary
 Throughout the eighteenth century, the Ottoman and Russian Empires were at war. However, a decisive victory by the Russian Empire helped them assert their influence over both Crimea and the Mediterranean. The Ottomans, wanting to counteract this assumption of power fought to prevent Russian ships from entering through the Straits of Gibraltar, seeking assistance from the Moroccan king Sidi Muhammed Ben Abdallah. In this context, Peter discusses the vibrant developments in diplomatic activity between Morocco and the Ottoman Empire throughout the eighteenth century. The increased exchange of diplomats between these two non-European powers demonstrates how Morocco and the Ottoman Empire responded to changes in international relations during this time period while still maintaining a particular diplomatic ethos.
 
 Focusing on some entertaining anecdotes about diplomats and their adventures, Peter takes us through the travelogues (riḥla and sefaretname) of several  Moroccan and Ottoman diplomats to demonstrate how they navigated the changing field of international relations. Here, Peter highlights that diplomatic history should deal just as much with developments in bureaucracy and statecraft as it does with its foundational standards and practices governed by a particular diplomatic mentality. Focusing on both actions and the governing influences behind those actions will help bring Morocco and the Ottoman Empire into broader conversations about diplomacy during this time period and might even help to uncover outlying developments in the European theater that have not fit into the particular ethos of a state-craft focused, bureaucratic teleology.
 
 Peter Kitlas is a doctoral candidate in the Department of Near Eastern Studies at Princeton University. He is a Returned Peace Corps Volunteer from Morocco and holds an M.A. from the University of Michigan. He research in Morocco, Turkey, Gibraltar, and Dubrovnik has been funded by the Social Science Research Council and the Department of Education through the Fulbright-Hays Commission.
 
-##Further Reading
+**Further Reading**
+
 Aksan, Virginia H., and Daniel Goffman eds. The early modern Ottomans: Remapping the Empire. Cambridge: Cambridge University Press, 2009.
 
 El Mansour, Mohamed. “Maghribis in the Mashriq during the Modern Period: Representations of the Other within the World of Islam.” The Journal of North African Studies 6.1 (2001): 81–104.
