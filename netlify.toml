@@ -1,8 +1,10 @@
 [build]
-  command = "hugo"
-  publish = "public"
+  command = "hugo --themesDir ../../"
+  base = "pkitlas"
+  publish = "pkitlaws/public"
 
 [build.environment]
+  HUGO_THEME = "repo"
   HUGO_VERSION = "0.55.6"
   HUGO_ENABLEGITINFO = "true"
 
