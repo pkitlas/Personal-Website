@@ -24,7 +24,7 @@ summary = "Moroccan and Ottoman Contributions to 18th c. Diplomatic Developments
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "At the Swedish Consul in Istanbul"
+  caption = "At the Swedish Consulate in Istanbul"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -37,9 +37,9 @@ summary = "Moroccan and Ottoman Contributions to 18th c. Diplomatic Developments
 
 +++
 
-To listen to the full interview visit the American Legation's website [**here**](https://legation.ipower.com/blog/?p=1924)
+To listen to the full interview visit the American Legation's website [**here**](https://legation.ipower.com/blog/?p=1924).
 
-##Summary##
+Summary
 
 Throughout the eighteenth century, the Ottoman and Russian Empires were at war. However, a decisive victory by the Russian Empire helped them assert their influence over both Crimea and the Mediterranean. The Ottomans, wanting to counteract this assumption of power fought to prevent Russian ships from entering through the Straits of Gibraltar, seeking assistance from the Moroccan king Sidi Muhammed Ben Abdallah. In this context, Peter discusses the vibrant developments in diplomatic activity between Morocco and the Ottoman Empire throughout the eighteenth century. The increased exchange of diplomats between these two non-European powers demonstrates how Morocco and the Ottoman Empire responded to changes in international relations during this time period while still maintaining a particular diplomatic ethos.
 
