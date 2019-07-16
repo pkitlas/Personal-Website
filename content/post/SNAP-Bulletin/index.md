@@ -28,7 +28,7 @@ summary = "A new quarterly blog from the Spain North Africa Project (SNAP)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point = "Smart"
 
   # Show image only in page previews?
   preview_only = false
