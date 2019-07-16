@@ -1,4 +1,4 @@
-+++
+---
 title = "Interview at the American Legation"
 
 summary = "This podcast, featuring doctoral candidate in the Department of Near Eastern Studies at Princeton University Peter Kitlas,  and TALIM resident director John Davison, was recorded on January 10, 2019."
@@ -30,7 +30,7 @@ categories = ["Podcast"]
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
-+++
+---
 **Summary**
 
 Throughout the eighteenth century, the Ottoman and Russian Empires were at war. However, a decisive victory by the Russian Empire helped them assert their influence over both Crimea and the Mediterranean. The Ottomans, wanting to counteract this assumption of power fought to prevent Russian ships from entering through the Straits of Gibraltar, seeking assistance from the Moroccan king Sidi Muhammed Ben Abdallah. In this context, Peter discusses the vibrant developments in diplomatic activity between Morocco and the Ottoman Empire throughout the eighteenth century. The increased exchange of diplomats between these two non-European powers demonstrates how Morocco and the Ottoman Empire responded to changes in international relations during this time period while still maintaining a particular diplomatic ethos.
