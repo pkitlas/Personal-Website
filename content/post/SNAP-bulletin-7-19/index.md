@@ -1,18 +1,18 @@
 +++
 
-title = "Interview at the American Legation"
+title = "SNAP Bulletin"
 
-summary = "This podcast, featuring doctoral candidate in the Department of Near Eastern Studies at Princeton University Peter Kitlas,  and TALIM resident director John Davison, was recorded on January 10, 2019."
+summary = "A new venture by the Spain North Africa Project published on July 8, 2019."
 
-date = 2019-01-30T00:00:00"
+date = 2019-07-08T00:00:00"
 draft = false
 
 authors = ["Peter Kitlas"]
 
 featured = true
 
-tags = ["Morocco","Mediterranean"]
-categories = ["Podcast"]
+tags = ["Morocco", "Mediterranean", "Spain"]
+categories = ["SNAP Bulletin"]
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
