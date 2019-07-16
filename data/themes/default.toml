@@ -5,12 +5,12 @@ name = "default"
 light = true
 
 # Primary
-primary = "#E13D3D"
+primary = "#4B0082"
 
 # Menu
 menu_primary = "#556B2F"
 menu_text = "#FFFFFF"
-menu_text_active = "#696969"
+menu_text_active = "#FFFFFF"
 menu_title = "#FFFFFF"
 
 # Backgrounds
