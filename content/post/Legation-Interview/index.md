@@ -47,16 +47,22 @@ Focusing on some entertaining anecdotes about diplomats and their adventures, Pe
 
 # Further Reading:
 
-Aksan, Virginia H., and Daniel Goffman eds. The early modern Ottomans: Remapping the Empire. Cambridge: Cambridge University Press, 2009.
+1) Aksan, Virginia H., and Daniel Goffman eds. The early modern Ottomans: Remapping the Empire. Cambridge: Cambridge University Press, 2009.
 
-El Mansour, Mohamed. “Maghribis in the Mashriq during the Modern Period: Representations of the Other within the World of Islam.” The Journal of North African Studies 6.1 (2001): 81–104.
+2) El Mansour, Mohamed. “Maghribis in the Mashriq during the Modern Period: Representations of the Other within the World of Islam.” The Journal of North African Studies 6.1 (2001): 81–104.
 
-El Moudden, Abderrahmane.  “Sharifs and Padishahs: Moroccan-Ottoman Relations from the 16th through the 18th Centuries. Contribution to the Study of a Diplomatic Culture.” Ph.D. Princeton University, 1992.
-El Moudden, Abderrahmane, Abd Al-Hafid al-Tubayli, and Nur al-Din Lahrim eds. al-Dhākira al-Mushtaraka al-Maghribiyya al-Turkiyya. Rabat: Al-Mandūbiyya al-Sāmiya, 2018.
-Gelder, Maartje van, and Tijana Krstić. “Introduction: Cross-Confessional Diplomacy and Diplomatic Intermediaries in the Early Modern Mediterranean.” Journal of Early Modern History (2015): 93–105.
-Kitlas, Peter. “Al-Miknāsī’s Mediterranean Mission: Negotiating Moroccan Temporal and Spiritual Sovereignty in the Late Eighteenth Century.” Mediterranean Studies Journal, vol. 23, 2. Penn State University Press, 2015. (pp. 170–194)
-Matar, N. I. An Arab Ambassador in the Mediterranean World: The Travels of Muḥammad Ibn ʻUthman Al-Miknasi. New York: Routledge, 2015.
+3) El Moudden, Abderrahmane.  “Sharifs and Padishahs: Moroccan-Ottoman Relations from the 16th through the 18th Centuries. Contribution to the Study of a Diplomatic Culture.” Ph.D. Princeton University, 1992.
 
-Shuval, Tal. “Cezayir-Garp: Bringing Algeria Back into Ottoman History.” Ed. Çağlar Keyder and Ayşe Öneli. New perspectives on Turkey. 22 (2000): 85–112
-Témimi, Abdeljelil. “The Arab-Ottoman Historical Heritage and Its Impact on the Arab-Turkish Relations.” Arab Historical Review for Ottoman Studies 7 – 8 (1993): 2215 – 25.
-Windler, Christian. La Diplomatie comme expérience de l’autre: Consuls Français au Maghreb (1700-1840). Genève: Droz, 2002.
+4) El Moudden, Abderrahmane, Abd Al-Hafid al-Tubayli, and Nur al-Din Lahrim eds. al-Dhākira al-Mushtaraka al-Maghribiyya al-Turkiyya. Rabat: Al-Mandūbiyya al-Sāmiya, 2018.
+
+5) Gelder, Maartje van, and Tijana Krstić. “Introduction: Cross-Confessional Diplomacy and Diplomatic Intermediaries in the Early Modern Mediterranean.” Journal of Early Modern History (2015): 93–105.
+
+6) Kitlas, Peter. “Al-Miknāsī’s Mediterranean Mission: Negotiating Moroccan Temporal and Spiritual Sovereignty in the Late Eighteenth Century.” Mediterranean Studies Journal, vol. 23, 2. Penn State University Press, 2015. (pp. 170–194)
+
+7) Matar, N. I. An Arab Ambassador in the Mediterranean World: The Travels of Muḥammad Ibn ʻUthman Al-Miknasi. New York: Routledge, 2015.
+
+8) Shuval, Tal. “Cezayir-Garp: Bringing Algeria Back into Ottoman History.” Ed. Çağlar Keyder and Ayşe Öneli. New perspectives on Turkey. 22 (2000): 85–112
+
+9) Témimi, Abdeljelil. “The Arab-Ottoman Historical Heritage and Its Impact on the Arab-Turkish Relations.” Arab Historical Review for Ottoman Studies 7 – 8 (1993): 2215 – 25.
+
+10) Windler, Christian. La Diplomatie comme expérience de l’autre: Consuls Français au Maghreb (1700-1840). Genève: Droz, 2002.
