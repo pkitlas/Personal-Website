@@ -1,22 +1,18 @@
 +++
-# start with title and date
 
-# Add a summary to display on homepage (optional).
-summary = ""
+title = "Interview at the American Legation"
 
-date = ""
+summary = "This podcast, featuring doctoral candidate in the Department of Near Eastern Studies at Princeton University Peter Kitlas,  and TALIM resident director John Davison, was recorded on January 10, 2019."
+
+date = 2019-01-30T00:00:00"
 draft = false
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["Peter Kitlas"]
 
-# Is this a featured post? (true/false)
-featured = false
+featured = true
 
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
-categories = []
+tags = ["Morocco","Mediterranean"]
+categories = ["Podcast"]
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
