@@ -2,7 +2,7 @@
 title = "SNAP Bulletin"
 subtitle = "A new quarterly blog from the Spain North Africa Project (SNAP)"
 
-date = 2019-01-10T00:00:00  # Schedule a publish date
+date = 2019-07-08T00:00:00  # Schedule a publish date
 lastmod = 2019-07-16T00:00:00  # Date last modified
 draft = false  # Display this post? (true/false)
 
