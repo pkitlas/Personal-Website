@@ -34,7 +34,7 @@ a:hover {
 }
 
 .navbar-nav {
-  border-bottom: 2px solid #E13D3D;
+  border-bottom: 2px solid #4B0082;
 }
 
 .navbar-brand {
@@ -45,7 +45,7 @@ a:hover {
 
 .navbar-light .navbar-brand:focus,
 .navbar-light .navbar-brand:hover {
-  color: #d03b39;
+  color: #4B0082;
 }
 
 /* text */
