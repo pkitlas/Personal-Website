@@ -1,20 +1,16 @@
 +++
+
 title = "Interview at the American Legation"
 
-# Add a summary to display on homepage (optional).
 summary = "This podcast, featuring doctoral candidate in the Department of Near Eastern Studies at Princeton University Peter Kitlas,  and TALIM resident director John Davison, was recorded on January 10, 2019."
 
 date = 2019-01-30T00:00:00"
 draft = false
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["Peter Kitlas"]
 
-# Is this a featured post? (true/false)
 featured = true
 
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["Morocco","Mediterranean"]
 categories = ["Podcast"]
 
@@ -35,6 +31,7 @@ categories = ["Podcast"]
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
++++
 
 To listen to the full interview visit the American Legation's website here: 
 
@@ -57,6 +54,5 @@ Matar, N. I. An Arab Ambassador in the Mediterranean World: The Travels of Muḥ
 Shuval, Tal. “Cezayir-Garp: Bringing Algeria Back into Ottoman History.” Ed. Çağlar Keyder and Ayşe Öneli. New perspectives on Turkey. 22 (2000): 85–112
 Témimi, Abdeljelil. “The Arab-Ottoman Historical Heritage and Its Impact on the Arab-Turkish Relations.” Arab Historical Review for Ottoman Studies 7 – 8 (1993): 2215 – 25.
 Windler, Christian. La Diplomatie comme expérience de l’autre: Consuls Français au Maghreb (1700-1840). Genève: Droz, 2002.
-+++
 
 
