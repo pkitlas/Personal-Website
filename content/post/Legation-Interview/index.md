@@ -9,7 +9,7 @@ draft = false  # Display this post? (true/false)
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Peter Kitlas"]
 
-tags = ["Morocc", "Mediterranean", "Diplomacy"]
+tags = ["Morocco", "Mediterranean", "Diplomacy"]
 summary = "Moroccan and Ottoman Contributions to 18th c. Diplomatic Developments."
 
 # Projects (optional).

@@ -9,7 +9,7 @@ draft = false  # Display this post? (true/false)
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Peter Kitlas"]
 
-tags = ["Morocc", "Mediterranean", "Diplomacy", "Spain", "SNAP"]
+tags = ["Morocco", "Mediterranean", "Diplomacy", "Spain", "SNAP"]
 summary = "A new quarterly blog from the Spain North Africa Project (SNAP)"
 
 # Projects (optional).
