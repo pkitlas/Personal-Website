@@ -10,7 +10,7 @@ draft = false  # Display this post? (true/false)
 authors = ["Peter Kitlas"]
 
 tags = ["Morocc", "Mediterranean", "Diplomacy"]
-summary = "Create a beautifully simple website in under 10 minutes."
+summary = "Moroccan and Ottoman Contributions to 18th c. Diplomatic Developments."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
