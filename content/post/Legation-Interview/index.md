@@ -28,7 +28,7 @@ summary = "Moroccan and Ottoman Contributions to 18th c. Diplomatic Developments
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  focal_point = "TopRight"
 
   # Show image only in page previews?
   preview_only = false
