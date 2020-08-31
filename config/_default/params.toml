@@ -10,7 +10,7 @@ day_night = true
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
 font = "default"
-font_size = "small"
+
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "Personal Website of Peter Kitlas, Ph.D. candidate in Near Eastern Studies at Princeton University"
 
