@@ -9,23 +9,23 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Graduate student in Near Eastern Studies"
+role = "Ph.D. Candidate in Near Eastern Studies"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "Princeton University", url = "https://nes.princeton.edu/people/peter-kitlas" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include Mediterranean diplomacy, bureaucratic networks, and comparative early modern politics."
+bio = "Peter Kitlas is a graduate student of Near Eastern Studies at Princeton Unviversity. His research interests include the eighteenth century Mediterranean, early modern state developments, and Moroccan-Ottoman diplomatic relations."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "pkitlas@me.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "18th Century Mediterranean History",
-  "Diplomacy",
-  "Early Modern States and Bureaucracy"
+  "Early Modern Mediterranean History",
+  "Diplomacy and Anti-diplomacy",
+  "History of Islamic Thought and Society"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -77,4 +77,5 @@ user_groups = []
 
 +++
 
-Peter Kitlas is a graduate student of Near Eastern Studies at Princeton Unviversity. His research interests include the eighteenth century Mediterranean, early modern state developments, and Moroccan-Ottoman diplomatic relations.
+My research focuses on the development of Islamic thought in the eighteenth-century Mediterranean. Examining primary sources in Arabic and Ottoman Turkish collected during two years of archival research in Morocco and Turkey, I explore the various ways in which Islam influenced the social and political practices of diplomacy. At a time when diplomatic history is dominated by a set of enlightenment inspired, secular ideals, my work demonstrates how Moroccan and Ottoman actors imbued an Islamic sense of univerasal mutual frienship and just witnessing into their role as international intermediaries.
+
