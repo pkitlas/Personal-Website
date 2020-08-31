@@ -77,5 +77,5 @@ user_groups = []
 
 +++
 
-My research focuses on the development of Islamic thought in the eighteenth-century Mediterranean. Examining primary sources in Arabic and Ottoman Turkish collected during two years of archival research in Morocco and Turkey, I explore the various ways in which Islam influenced the social and political practices of diplomacy. At a time when diplomatic history is dominated by a set of enlightenment inspired, secular ideals, my work demonstrates how Moroccan and Ottoman actors imbued an Islamic sense of univerasal mutual frienship and just witnessing into their role as international intermediaries.
+My research focuses on the contours of Islamic thought in the eighteenth-century Mediterranean. I am particularly interested in exploring how Muslims influenced the development of social and political thought during this time period dominated, which is usually dominated by an emphasis on secular, enlightenment ideals. I work on primary sources in Arabic and Ottoman Turkish collected during two years of archival research in Morocco and Turkey. These texts, ranging from travelogues to biographical dictionaries, demonstrate how Moroccan and Ottoman actors imbued an Islamic sense of univerasal mutual frienship and just witnessing into their burgeonining role as international intermediaries.
 
