@@ -41,6 +41,6 @@ The inaugural [**SNAP Bulletin**](http://www.spainnorthafricaproject.org/bullelt
 
 The blog begins with a Story Map that I created to document [**al-Miknasi's 1779 Mission**](http://spainnorthafricaproject.squarespace.com/story-maps/al-miknasi). For more information about using Story Maps in the classroom and as a pedogogical tool, feel free to contact me!
 
-![Sevilla](/media/Sevilla.jpg)
+![Sevilla](/img/Sevilla.jpg)
 
 A special thanks also goes out to our first contributors: [**Tina Barouti**](http://www.spainnorthafricaproject.org/bulleltin/2019/7/8/arts-feature-our-dream-was-to-rescue), [**Liz Matsushita, Eric Calderwood**](http://www.spainnorthafricaproject.org/bulleltin/2019/7/7/inaugural-snap-bulletin-summer-2019), and [**Linda Gale-Jones**](http://www.spainnorthafricaproject.org/bulleltin/2019/7/8/grant-updates). Enjoy!
