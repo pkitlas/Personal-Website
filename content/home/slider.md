@@ -34,7 +34,7 @@ height = "500px"
   cta_icon_pack = "fas"
   cta_icon = ""
 
-#[[item]]
+[[item]]
   title = "Left"
   content = "I am left aligned :smile:"
   align = "left"
@@ -43,7 +43,7 @@ height = "500px"
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
-#[[item]]
+[[item]]
   title = "Right"
   content = "I am right aligned :smile:"
   align = "right"
