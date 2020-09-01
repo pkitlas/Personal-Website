@@ -77,5 +77,7 @@ user_groups = []
 
 +++
 
+What makes something religious or not? And why does this matter?
+
 My research focuses on  understanding the contours of Islamic thought in the eighteenth-century Mediterranean. I am particularly interested in exploring how Islamic actors influenced the development of social and political thought during this time period, which is usually dominated by an emphasis on secular, enlightenment ideals. I work on primary sources in Arabic and Ottoman Turkish collected during two years of archival research in Morocco and Turkey. These texts, ranging from travelogues to biographical dictionaries, demonstrate how Moroccan and Ottoman actors imbued an Islamic sense of univerasal mutual frienship and just witnessing into their burgeonining role as international intermediaries.
 
