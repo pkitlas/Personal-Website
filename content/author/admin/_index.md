@@ -83,8 +83,9 @@ My research focuses on  understanding the contours of Islamic thought in the eig
 
 I work on primary sources in Arabic, Ottoman Turkish, Spanish, French, and Italian collected during two years of archival research in Morocco, Turkey, Gibraltar, and Dubrovnik. These texts include: travelogues, correspondence, biographical dictionaries, and diplomatic manuals. My research demonstrates how Moroccan and Ottoman actors imbued an Islamic sense of univerasal mutual frienship and just witnessing into their burgeonining role as international intermediaries.
 
-I can offer classes in:
+I offer classes in:
 
-- Islamic Intellectual History
-- 
+- Middle Eastern History
+- Islamic Studies
+- Mediterranean Studies
 
