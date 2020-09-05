@@ -1,6 +1,6 @@
 +++
 title = "Mawlāy al-Rashīd b. Al-Sharīf b. ʿAlī (r. 1069-82 / 1659-72)"
-date = 2020-11-01T00:00:00
+date = 2020-09-05T00:00:00
 
 #subtitle = ""
 #summary = "
