@@ -9,7 +9,7 @@ tags = ["Mediterranean"]
 categories = ["Paper"]
 publication_type = "2"
 publication = "The Journal of North African Studies v. 24 no. 5: 713-716"
-abstract = "An introduction to as special section of The Journal of North African Studies that features publications from scholars across the disciplines inquiring what it means to think of North Africa through the analytical category of Island Studies."
+abstract = "An introduction to a special section of The Journal of North African Studies that features publications from scholars across the disciplines inquiring what it means to think of North Africa through the analytical category of Island Studies. The section features articles from Sabahat Adil, Silvia Marsans-Sakly, Ann Shafer, and Isabella Alexander."
 
 featured = true
 
