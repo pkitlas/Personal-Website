@@ -24,7 +24,7 @@ summary = "A new quarterly blog from the Spain North Africa Project (SNAP)"
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "The macaques at the rock of Gibraltar"
+  caption = "Rabat. Photo by Aaron Stamper"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
