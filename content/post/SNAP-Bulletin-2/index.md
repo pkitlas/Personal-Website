@@ -43,6 +43,6 @@ Debates about terminology aside, what does it mean to write a ‘connected histo
 
 We hope you enjoy this edition! We are always excited to work with new contributors - so if you have an idea for a post, please do not hesitate to contact me. 
 
-As always a special thanks also goes out to our first contributors: [**Aaron Stamper**](https://history.princeton.edu/people/aaron-stamper) and [**Daniel Hershenzon**](https://languages.uconn.edu/person/daniel-hershenzon/). Enjoy!
+As always a special thanks goes out to first contributors: [**Aaron Stamper**](https://history.princeton.edu/people/aaron-stamper) and [**Daniel Hershenzon**](https://languages.uconn.edu/person/daniel-hershenzon/). Enjoy!
 
 Subrahmanyam, Sanjay. 2019. Empires between Islam and Christianity, 1500-1800. Albany: State University of New York Press.
