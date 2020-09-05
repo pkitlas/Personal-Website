@@ -9,8 +9,8 @@
   weight = 10
 
 [[main]]
- name = "Awards"
- url = "#accomplishments"
+ name = "Posts"
+ url = "#posts"
   weight = 30
 
 [[main]]
