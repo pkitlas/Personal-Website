@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """Assistant in Instruction for Prof. M. Qasim Zaman."""
 
 [[experience]]
-  title = "The Lawrenceville School, Teacher"
+  title = "The Lawrenceville School, Instructor on Record"
   company = "Islam in America"
   company_url = "files/IslaminAmericaSyllabus.pdf"
   location = "Lawrenceville, NJ"
