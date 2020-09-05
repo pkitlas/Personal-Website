@@ -9,7 +9,7 @@ An introduction to as special section of The Journal of North African Studies th
 tags = ["Mediterranean"]
 categories = ["Paper"]
 publication_type = "2"
-publication = "The Journal of North African Studies: 713-716"
+publication = "The Journal of North African Studies v. 24 no. 5: 713-716"
 #abstract = ""
 
 featured = true
