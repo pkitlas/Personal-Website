@@ -1,5 +1,5 @@
 +++
-title = "Mawlāy Ismāʿīl b. Al-Sharīf Abū al-Naṣr (r. 1082-1139 / 1672-1727)"
+title = "awlāy Ismāʿīl b. Al-Sharīf Abū al-Naṣr (r. 1082-1139 / 1672-1727)"
 date = 2020-11-01T00:00:00
 
 #subtitle = ""
