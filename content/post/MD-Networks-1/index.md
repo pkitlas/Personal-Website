@@ -37,4 +37,10 @@ summary = "A visualization of Moroccan diplomatic networks through network analy
 
 +++
 
-This is a new installment on visualizing Moroccan diplomatic networks during the reign of Muhammad III (1757-1790). 
+This is a new installment in which I attempt to visualize Moroccan diplomatic networks during the reign of Muhammad III (1757-1790) through a network analysis of their correspondence. Using official letters collected from archives across the Mediterranean, this network analysis not only demonstrates the breadth and intensity of Moroccan diplomatic relations during the eighteenth century, but also seeks to reframe how we understand the internal mechanisms of Morocco's diplomatic system. (A more detailed version of this is presented in my dissertation, "Divinely Guided Ambassadors: Ottoman and Moroccan Roots of Modern Diplomacy in the Eighteenth Century Mediterranean")
+
+This first iteration focuses on the Moroccan sultan himself, Muhammad III. Histories of eighteenth century Morocco often cite Muhammad III as one of the most influential characters in the creation of modern Morocco. He is noted both for unifying the country by quelling internal rebellions as well as opening up Morocco to an international trade and treaty system. Under his reign Morocco signed commercial and peace treaties with at least twelve countries across Europe as well as the nascient United States of America. He also is credited with planning and building the Atlantic port of Essaouira. In many respects, these aspects of his reign have centered all studies on Moroccan diplomacy around the sultan. But what did Moroccan diplomacy actually look like in the eighteenth century?
+
+![Moroccan Diplomatic Network](/img/muhammadiiinetwork1.jpeg)
+
+
