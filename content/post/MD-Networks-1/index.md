@@ -63,4 +63,23 @@ There are, of course, some larger nodes in Muhammad III's graph. These include C
 
 ![Muhammad III Close-up](/img/muhammadiiinetwork2.1.jpeg)
 
+These are Morocco's closest neighbors so it is not a surprise that Muhammad III had more consistent contact with them. Nevertheless, the numbers are still relatively small with 22 to Carlos III and 14 to George Elliot. As we will see in later posts, these are numbers that were easily surpased by other Moroccan diplomatic actors in much shorter periods of time. 
 
+As such, this brief examination of the relative diplomatic network of Muhammad III helps us to de-center our study of Moroccan diplomacy from the sultan. Yes - he certainly helped to direct the broad contours of Moroccan diplomatic policy. But, as the graph indicates, he was not necessarily involved in the day-to-day practice. This conclusion opens up an important space to focus on the practices, thoughts, and influences of other Moroccan diplomatic actors. 
+
+Muhammad III's graph provides a bit of a teaser for the next installment, which will dive deeper into these individuals. That is, in addition to the foreign counterparts, four Moroccan actors appear in his network. This indicates direct correspondence between the Moroccan sovereign and his diplomats. These connections, which have not been detailed before, will be the subject of the next post. In it, we will attempt to build a better understanding of the local, institutional characteristics of diplomacy in Muhammad III's court. For now, however, here is a photo of the beautiful Middle Atlas cedars from Jebel Bouiblane followed by a short bibliography.
+
+![Cedars](/img/middleatlascedars.jpg)
+
+Bibliography:
+
+- Harrak, Fatima. 1989. “State and Religion in Eighteenth Century Morocco: The Religious Policy of Sidi Muhammad b. ’Abd Allah, 1757-1790.” London: SOAS.
+
+- Ibn ʿAbdallāh, ʿAbd al-ʿAzīz. 1985. al-Safāra wa-l-sufarā’ bi-l-Maghrib ʿabr al-tārīkh. Rabat: al-Maʿhud al-waṭanī li-l-dirāsāt.
+
+- Jādūr, Muḥammad. 2003. “al-Diblūmāsiyya al-Saʿdiyya, al-diblūmāsiyya al-ʿAlawiyya, istimrāriyya um qaṭīʿa: Aḥmed al-Manṣūr wa al-Mawlāy Ismāʿīl numūdhajan.” In al-Tārīk̲h wa-al-diblūmāsiyya: qaḍāyā al-muṣṭalaḥ wa-al-manhaj, edited by ʻAbd al-Majīd Qaddūrī, 223–53. Rabat: Jāmiʻat Muḥammad V.
+
+- Lourido Díaz, Ramón. 1989. Marruecos y el mundo exterior en la segunda mitad del siglo XVIII: Relaciones politico-comerciales del sultan Sīdī Muḥammad b. ʿAbd Allāh (1757-1790) con el exterior. Madrid: Dispograf.
+- Miller, Susan Gilson. 2013. A History of Modern Morocco. Cambridge: Cambridge University Press.
+
+- Qaddūrī, ʻAbd al-Majīd.2003. al-Tārīkh wa-al-diblūmāsiyya: qaḍāyā al-muṣṭalaḥ wa-al-manhaj. Rabat: Jāmiʻat Muḥammad V.

@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Princeton, NJ"
   date_start = "2021-02-01"
   date_end = ""
-  description = """NES and HIS seminar co-taught with Skyler Anderson."""
+  description = """Near Eastern Studies and History seminar co-taught with Skyler Anderson. We examine how 'Western' and 'Islamic' civilizations have been represented in the past and interrogate whether 'civilization' is still a useful category of analysis"""
 
 [[experience]]
   title = "Princeton Univeristy, Assistant in Instruction"
