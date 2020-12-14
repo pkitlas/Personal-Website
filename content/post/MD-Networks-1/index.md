@@ -2,7 +2,7 @@
 title = "Eighteenth Century Moroccan Diplomtats"
 subtitle = "A Netwok Analysis"
 
-date = 2020-12-014T00:00:00  # Schedule a publish date
+date = 2020-12-14T00:00:00  # Schedule a publish date
 lastmod = 2019-12-14T00:00:00  # Date last modified
 draft = false  # Display this post? (true/false)
 
