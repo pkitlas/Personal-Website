@@ -77,11 +77,11 @@ user_groups = []
 
 +++
 
-What makes something religious or not? And why does this matter?
+How do notions of friendship, justice, and objectivity end up at the forefront of modern diplomacy and international thought? Would you expect to find this in 18th century Islamic discourse?
 
-My research focuses on  understanding the contours of Islamic thought in the eighteenth-century Mediterranean. I am particularly interested in exploring how Islamic actors influenced the development of **social** and **political** thought during this time period, which is usually dominated by an emphasis on secular, enlightenment ideals. 
+My current research explores the role of Islam in the creation of modern diplomacy and international thought. To do so, I examine the lives and writings of Moroccan and Ottoman ambassadors who traveled throughout the 18th century Mediterranean. I explore their travelogues, correspondence, diplomatic manuals, and biographical dictionares to better understand how they thought about and practiced diplomacy.
 
-I work on primary sources in Arabic, Ottoman Turkish, Spanish, French, and Italian collected during two years of archival research in Morocco, Turkey, Gibraltar, and Dubrovnik. These texts include: travelogues, correspondence, biographical dictionaries, and diplomatic manuals. My research demonstrates how Moroccan and Ottoman actors imbued an Islamic sense of **universal mutual friendship** and **just witnessing** into their burgeonining role as international intermediaries.
+My dissertation argues that Moroccan and Ottoman ambassadors justified their role in an increasingly connected international arena by developing their own, modern understanding of diplomacy. I trace their engagement with concepts like friendship, justice, and objectivity not through Euro-centered frameworks, but rather through intellectual genealogies with Islamic cultural and social roots. From refashioning conceptions of jihad to setting the moral standards for international mediation, my research explores how these actors engaged with an Islamic tradition to develop a modern diplomatic space.
 
 I offer classes in:
 
