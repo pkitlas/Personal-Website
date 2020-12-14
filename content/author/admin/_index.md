@@ -77,7 +77,7 @@ user_groups = []
 
 +++
 
-How do notions of friendship, justice, and objectivity end up at the forefront of modern diplomacy and international thought? Would you expect to find this in 18th century Islamic discourse?
+How do notions of friendship, justice, and objectivity end up at the forefront of modern diplomacy and international thought? Would you expect to find these concepts in 18th century Islamic discourse?
 
 My current research explores the role of Islam in the creation of modern diplomacy and international thought. To do so, I examine the lives and writings of Moroccan and Ottoman ambassadors who traveled throughout the 18th century Mediterranean. I explore their travelogues, correspondence, diplomatic manuals, and biographical dictionares to better understand how they thought about and practiced diplomacy.
 

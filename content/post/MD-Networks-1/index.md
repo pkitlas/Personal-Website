@@ -57,4 +57,10 @@ If we separate out Muhammad III's connections from the rest of the Moroccan dipl
 
 ![Muhammad III's Network Analysis](/img/muhammadiiinetwork2.jpeg)
 
+What is immediately striking about Muhammad III's graph is that, despite sending a large amount of letters, he mostly corresponds once or twice with foreign counterparts. If we place this within the context of a 30-year reign, one,  two, or even three correspondences does not seem like very many. This is the first indication that his overtly prominent place in the broader graph does not demonstrate the actual nuance of his position relative to other Moroccan diplomats. While he might have been directing the broad contours of Moroccan policy during this time period, this graph suggests that there were other actors who were taking care of the day-to-day operations of diplomacy.
+
+There are, of course, some larger nodes in Muhammad III's graph. These include Carlos III of Spain and George Elliot of Gibraltar.
+
+![Muhammad III Close-up](/img/muhammadiiinetwork2.1.jpeg)
+
 
