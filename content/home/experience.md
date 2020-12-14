@@ -18,12 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Princeton Univeristy, Lecturer"
+  company = "Clash of Civilizations?"
+  company_url = "files/clashofcivilizations.pdf"
+  location = "Princeton, NJ"
+  date_start = "2021-02-01"
+  date_end = ""
+  description = """NES and HIS seminar co-taught with Skyler Anderson."""
+
+[[experience]]
   title = "Princeton Univeristy, Assistant in Instruction"
   company = "Muslims and the Qur'an"
   company_url = ""
   location = "Princeton, NJ"
   date_start = "2019-09-01"
-  date_end = ""
+  date_end = "2019-12-30"
   description = """Assistant in Instruction for Prof. M. Qasim Zaman."""
 
 [[experience]]
@@ -32,7 +41,7 @@ date_format = "Jan 2006"
   company_url = "files/IslaminAmericaSyllabus.pdf"
   location = "Lawrenceville, NJ"
   date_start = "2019-03-25"
-  date_end = ""
+  date_end = "2019-05-30"
   description = """Instructor on record for a course on Islam in America using the Harkness Teaching Model"""
 
 [[experience]]
