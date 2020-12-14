@@ -49,4 +49,12 @@ Furthermore,the size of each node is dictated by how many official diplomatic le
 
 ![Focus on Moroccan Diplomats](/img/muhammadiiinetwork1.1.jpeg)
 
-Here we get a better understanding of the relative size of the diplomatic nodes as well as the names of the individuals attached to each.
+Here we get a better understanding of the relative size of the diplomatic nodes as well as the names of the individuals attached to each. Wading through all of the clutter a few names emerge. First, unsurprisingly is Muhammad III, whose node is much larger than anyone else in comparison. Aside from this we also find three other relatively active diplomats: al-Ghazzal, Muhammad bin Abd al-Malik, and Ibn Uthman al-Miknasi. These characters will be discussed in later posts. For now, we will turn our attention to Muhammad III.
+
+In many respects, this network analysis confirms his centrality to the Moroccan diplomatic system. His output is clearly higher than anyone else. But what exactly did this mean? Who was he corresponding with? And how often?
+
+If we separate out Muhammad III's connections from the rest of the Moroccan diplomatic actors a slightly different image of the Moroccan sultan's diplomatic role emerges. Here, the network analysis graph is inversed. That is, a larger node indicates more letters received from the sender, Muhammad III.
+
+![Muhammad III's Network Analysis](/img/muhammadiiinetwork2.jpeg)
+
+
