@@ -2,8 +2,8 @@
 title = "Eighteenth Century Moroccan Diplomtats"
 subtitle = "A Netwok Analysis"
 
-date = 2019-07-08T00:00:00  # Schedule a publish date
-lastmod = 2019-07-16T00:00:00  # Date last modified
+date = 2020-12-014T00:00:00  # Schedule a publish date
+lastmod = 2019-12-14T00:00:00  # Date last modified
 draft = false  # Display this post? (true/false)
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
