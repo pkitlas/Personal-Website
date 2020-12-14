@@ -43,4 +43,10 @@ This first iteration focuses on the Moroccan sultan himself, Muhammad III. Histo
 
 ![Moroccan Diplomatic Network](/img/muhammadiiinetwork1.jpeg)
 
+The figure above represents all of the Moroccan diplomatic actors who wrote official diplomatic correspondence with foreign counterparts during the reign of Muhammad III. These Moroccan actors are labeled in 'Red'. Actors from other countries are labeled in the various colors. For instance, Spanish actors are marked in Tourquoise, French in Pink, British in Blue, Portuguese in Green, and Ragusans in Purple. 
 
+Furthermore,the size of each node is dictated by how many official diplomatic letters that Moroccan actor sent. In other words, the larger the node the more official diplomatic letters that person sent. If we zoom in on the larger map, a few things become clear:
+
+![Focus on Moroccan Diplomats](/img/muhammadiiinetwork1.1.jpeg)
+
+Here we get a better understanding of the relative size of the diplomatic nodes as well as the names of the individuals attached to each.
