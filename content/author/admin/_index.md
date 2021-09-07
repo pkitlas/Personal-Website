@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Ph.D., Near Eastern Studies"
+role = "Postdoctoral Fellow"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Princeton University", url = "https://nes.princeton.edu/people/peter-kitlas" } ]
+organizations = [ { name = "The Fox Center for Humanistic Inquiry, Emory University", url = "http://fchi.emory.edu/home/current-fellows/index.html" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Peter Kitlas is a Post Graduate Research Associate in the department of Near Eastern Studies at Princeton Unviversity. His research interests include the eighteenth century Mediterranean, early modern state developments, and Moroccan-Ottoman diplomatic relations."
