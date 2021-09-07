@@ -16,7 +16,7 @@ role = "Postdoctoral Fellow"
 organizations = [ { name = "The Fox Center for Humanistic Inquiry, Emory University", url = "http://fchi.emory.edu/home/current-fellows/index.html" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Peter Kitlas is a Post Graduate Research Associate in the department of Near Eastern Studies at Princeton Unviversity. His research interests include the eighteenth century Mediterranean, early modern state developments, and Moroccan-Ottoman diplomatic relations."
+bio = "Peter Kitlas is a Postdoctoral Fellow in The Fox Center for Humanistic Inquiry at Emory University. His research interests include the eighteenth century Mediterranean, early modern state developments, and Moroccan-Ottoman diplomatic relations."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "pkitlas@me.com"
