@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "files/clashofcivilizations.pdf"
   location = "Princeton, NJ"
   date_start = "2021-02-01"
-  date_end = ""
+  date_end = "2021-05-01"
   description = """Near Eastern Studies and History seminar co-taught with Skyler Anderson. We examine how 'Western' and 'Islamic' civilizations have been represented in the past and interrogate whether 'civilization' is still a useful category of analysis"""
 
 [[experience]]
