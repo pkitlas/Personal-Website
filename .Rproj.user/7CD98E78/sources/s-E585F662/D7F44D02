@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1631062579717.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "272126779",
+    "id" : "D7F44D02",
+    "lastKnownWriteTime" : 1631055195,
+    "last_content_update" : 1631055195,
+    "path" : "~/Sites/Personal-Website/themes/academic/.github/PULL_REQUEST_TEMPLATE.md",
+    "project_path" : "themes/academic/.github/PULL_REQUEST_TEMPLATE.md",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
